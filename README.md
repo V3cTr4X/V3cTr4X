@@ -54,10 +54,10 @@
 
 <h3 align="left">💻 My setup: </h3>
 
-CPU: Ryxen 5 4600h
-RAM: 8GB
-SSD: 512GB
-OS: Arch Linux 
+CPU: Ryxen 5 4600h<br>
+RAM: 8GB<br>
+SSD: 512GB<br>
+OS: Arch Linux <br>
 
 ###
 
