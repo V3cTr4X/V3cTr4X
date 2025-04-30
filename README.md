@@ -54,7 +54,7 @@
 
 <h3 align="left">💻 My setup: </h3>
 
-CPU: Ryxen 5 4600h<br>
+CPU: Ryzen 5 4600h<br>
 RAM: 8GB<br>
 SSD: 512GB<br>
 OS: Arch Linux <br>
