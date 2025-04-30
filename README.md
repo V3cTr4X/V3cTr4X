@@ -52,6 +52,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+<h3 align="left">💻 My setup: </h3>
+
+CPU: Ryxen 5 4600h
+RAM: 8GB
+SSD: 512GB
+OS: Arch Linux 
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
