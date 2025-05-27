@@ -57,7 +57,7 @@
 CPU: Ryzen 5 4600h<br>
 RAM: 8GB<br>
 SSD: 512GB<br>
-OS: Arch Linux <br>
+OS: Fedora Workstation 42 <br>
 
 ###
 
