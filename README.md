@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I am an IT and Cybersecurity professional active since 2020, passionate about Open Source and Linux. I have strong expertise in Bash scripting and Python, and I enjoy contributing to free software projects and enhancing cybersecurity. Currently, I rank in the top 28 in Spain and top 1700 worldwide on TryHackMe, reflecting my dedication and skills in the field.</p>
+<p align="left">I am an IT and Cybersecurity professional active since 2020, passionate about Open Source and Linux. I have strong expertise in Bash scripting and Python (learning Rust for pentesting too), and I enjoy contributing to free software projects and enhancing cybersecurity. Currently, I rank in the top 28 in Spain and top 1700 worldwide on TryHackMe, reflecting my dedication and skills in the field.</p>
 
 ###
 
